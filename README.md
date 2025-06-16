@@ -64,7 +64,7 @@ Before you begin, ensure you have the following installed on your system:
 ## Step 4: Define Your Data Model
 
 1. **Edit the Prisma schema** (`prisma/schema.prisma`):
-   ```prisma
+
    // Example schema - modify as needed
    generator client {
      provider = "prisma-client-js"
